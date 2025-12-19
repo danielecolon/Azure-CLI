@@ -15,8 +15,8 @@ Interactive mode (`az interactive`) for exploring commands with ease
 Using queries and output formatting (table, JSON, TSV)
 Automating tasks with scripts
 Best practices and tips for real-world usage
-# Who Should Attend
 
+# Audience
 New to Azure? Learn how to create and manage resources without leaving your terminal.
 Familiar with Azure Portal? Discover how az cli can save you time and help you automate.
 Experienced developers/IT pros? Pick up advanced tricks and best practices.
