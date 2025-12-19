@@ -1,7 +1,7 @@
 # Azure-CLI
 Learn how to use one of the most powerful tools for working with Azure
 
-![alt text](https://raw.githubusercontent.com/danielecolon/Azure-CLI/refs/heads/main/azcli.png)
+![alt text](https://raw.githubusercontent.com/danielecolon/Azure-CLI/refs/heads/main/azcli.gif)
 
 ## Details
 The Azure Command-Line Interface (az cli) is one of the most powerful tools for working with Azure. Whether you’re spinning up virtual machines, managing storage accounts, or automating deployments, az cli gives you full control of your cloud resources directly from your terminal.
