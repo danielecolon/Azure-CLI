@@ -16,13 +16,19 @@ Using queries and output formatting (table, JSON, TSV)
 Automating tasks with scripts
 Best practices and tips for real-world usage
 
-# Audience
+## Audience
 New to Azure? Learn how to create and manage resources without leaving your terminal.
 Familiar with Azure Portal? Discover how az cli can save you time and help you automate.
 Experienced developers/IT pros? Pick up advanced tricks and best practices.
 
 ## Speaker
 Daniel Colón has expertise in cloud, infrastructure, and systems integration obtained through 20 plus years of working as a manager, architect and developer on mission critical back-end systems that have included various cloud platforms such as AWS, Azure, and GCP. He has taught various courses at Northeastern University including ASP.NET, C#, and XML Web Services. He has certifications including A+, Security+, Azure Solutions Architect Expert, AWS Cloud Solutions Architect Professional and GCP Professional Cloud Architect.
+
+### YouTube
+[Rule Azure from the Terminal - The Power of AZ CLI](https://www.youtube.com/watch?v=_inJ4uKAJTc&t=2230s)
+
+### Slides
+[AzureCLI(az).pdf](AzureCLI(az).pdf)
 
 ### Tags
 Cloud Computing<br />
